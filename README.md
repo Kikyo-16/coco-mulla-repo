@@ -1,6 +1,3 @@
-# coco-mulla-repo
-Official source codes of coco-mulla
-
 # Coco-mulla
 
 Offical repository of [Content-based Controls For Music Large Language Modeling](https://arxiv.org/abs/2310.17162). You can visit our demo page [here](https://kikyo-16.github.io/coco-mulla/).
